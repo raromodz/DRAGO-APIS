@@ -1,0 +1,17 @@
+{
+  "name": "VenomApis",
+  "version": "1.0.0",
+  "description": "Base de site de apis simples para cada um se aprofundar....",
+  "main": "venom.js",
+    "scripts": {
+      "start": "node venom.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "repository": "https://youtube.com/@venommodsss",
+  "author": "Venom Mods",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
